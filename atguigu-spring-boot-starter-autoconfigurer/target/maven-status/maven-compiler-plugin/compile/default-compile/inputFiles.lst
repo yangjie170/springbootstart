@@ -1,3 +1,6 @@
 C:\Users\yjj\IdeaProjects\my-spring-boot-starter\atguigu-spring-boot-starter-autoconfigurer\src\main\java\com\atguigu\stater\HelloService.java
+C:\Users\yjj\IdeaProjects\my-spring-boot-starter\atguigu-spring-boot-starter-autoconfigurer\src\main\java\com\atguigu\jdbc\MyJdbcService.java
+C:\Users\yjj\IdeaProjects\my-spring-boot-starter\atguigu-spring-boot-starter-autoconfigurer\src\main\java\com\atguigu\jdbc\MyJdbcServiceAutoConfiguration.java
 C:\Users\yjj\IdeaProjects\my-spring-boot-starter\atguigu-spring-boot-starter-autoconfigurer\src\main\java\com\atguigu\stater\HelloServiceAutoConfiguration.java
 C:\Users\yjj\IdeaProjects\my-spring-boot-starter\atguigu-spring-boot-starter-autoconfigurer\src\main\java\com\atguigu\stater\HelloProperties.java
+C:\Users\yjj\IdeaProjects\my-spring-boot-starter\atguigu-spring-boot-starter-autoconfigurer\src\main\java\com\atguigu\jdbc\MyJdbcProperties.java

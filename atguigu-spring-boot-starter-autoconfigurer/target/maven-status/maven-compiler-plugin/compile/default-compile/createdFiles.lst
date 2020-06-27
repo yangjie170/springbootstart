@@ -1,3 +1,7 @@
+com\atguigu\jdbc\MyJdbcService.class
 com\atguigu\stater\HelloProperties.class
-com\atguigu\stater\HelloService.class
 com\atguigu\stater\HelloServiceAutoConfiguration.class
+com\atguigu\jdbc\MyJdbcServiceAutoConfiguration.class
+com\atguigu\jdbc\MyJdbcProperties.class
+com\atguigu\stater\HelloService.class
+META-INF\spring-configuration-metadata.json

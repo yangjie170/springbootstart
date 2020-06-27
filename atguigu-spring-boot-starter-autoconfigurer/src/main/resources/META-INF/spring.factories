@@ -1,2 +1,4 @@
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-com.atguigu.stater.HelloServiceAutoConfiguration
+com.atguigu.stater.HelloServiceAutoConfiguration,\
+com.atguigu.jdbc.MyJdbcServiceAutoConfiguration
+
